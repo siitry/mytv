@@ -1,0 +1,21 @@
+{
+  "sites": [
+    {
+      "key": "qa",
+      "name": "老何电视TV",
+      "type": 1,
+      "api": "http://154.12.86.169:2025/api.php/provide/vod/?ac=list",
+      "playUrl": "http://154.12.86.169:2025",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "短剧",
+        "综艺片",
+        "动漫"
+      ]
+    }
+  ]
+}
